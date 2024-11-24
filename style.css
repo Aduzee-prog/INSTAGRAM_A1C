@@ -1,0 +1,67 @@
+.instagram{
+    display: grid;
+    justify-content: center;
+}
+.body{
+    background: #c92bb7;
+    background: linear-gradient(45deg, #ffde8f 0%, #f7792a 30%, #f7504f 40%, #d82b81 60%, #9536c2 100%, transparent), radial-gradient(blue, transparent);
+    border-radius: 70px;
+    grid-area: 1/1/2/2;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+.body1{
+    background: white;
+    border-radius: 70px;
+    grid-area: 1/1/2/2;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 75px;
+    left: 75px;
+}
+.body2{
+    background: #c92bb7;
+    background: linear-gradient(45deg, #ffde8f 0%, #f7792a 30%, #f7504f 40%, #d82b81 60%, #9536c2 100%, transparent), radial-gradient(blue, transparent);
+    border-radius: 70px;
+    grid-area: 1/1/2/2;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    top: 9.5cap;
+    left: 9.5cap;
+}
+.body11{
+    background: white;
+    border-radius: 70px;
+    grid-area: 1/1/2/2;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 16cap;
+    left: 16cap;
+}
+.body22{
+    background: #c92bb7;
+    background: linear-gradient(45deg, #ffde8f 0%, #f7792a 30%, #f7504f 40%, #d82b81 60%, #9536c2 100%, transparent), radial-gradient(blue, transparent);
+    border-radius: 70px;
+    grid-area: 1/1/2/2;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 18.5cap;
+    left: 18.3cap;
+}
+.circul{
+    background-color: white;
+    border-radius: 50%;
+    grid-area: 1/1/2/2;
+    position: relative;
+    top: 120px;
+    left: 350px;
+    width: 70px;
+    height: 70px;
+}
